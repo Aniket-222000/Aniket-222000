@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-![](https://komarev.com/ghpvc/?username=Aniket-2000&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=Aniket-222000&color=brightgreen)
 
 - 🔭 Focusing on FullStack.😎
 - 🌱 I’m currently learning DevOps and React 
@@ -46,12 +46,12 @@
 
 ### My Github Status:
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Aniket-2000&show_icons=true&include_all_commits=true&theme=nightowl&hide_border=true" alt="Aniket Chakkarwar github status" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Aniket-222000&show_icons=true&include_all_commits=true&theme=nightowl&hide_border=true" alt="Aniket Chakkarwar github status" />
 
 ---
 
 ### Top Usage Languages:
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniket-2000&layout=compact&theme=yeblu&hide_border=true&&langs_count=8" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniket-222000&layout=compact&theme=yeblu&hide_border=true&&langs_count=8" />
 
 ---
