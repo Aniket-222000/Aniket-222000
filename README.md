@@ -10,7 +10,6 @@
 - 🌱 I’m currently learning DevOps and React 
 - 💻 I love to exploring new tech stack and building cool stuffs.
 - 📰 Reading stock market news whenever possible.
-- 🥅 2023 Goals: Want to be a Fullstack Web Developer.
 - ⚡ Fun fact: Equal is Not Always Equal in Javascript.🤣
 
 ---
