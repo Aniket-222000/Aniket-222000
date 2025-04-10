@@ -40,7 +40,6 @@
 ![NestJS](https://img.shields.io/badge/Nestjs-000000?style=flat-square&logo=nestjs&logoColor=D9224D)
 ![VS Code](https://img.shields.io/badge/VisualStudio-2C2B30?style=flastic&logo=VisualStudioCode&logoColor=007ACC)
 ![Postman](https://img.shields.io/badge/Postman-f7f7f7?style=flastic&logo=Postman&logoColor=FF6C37)
-![Kafka Logo](https://img.icons8.com/?size=100&id=fOhLNqGJsUbJ&format=png&color=000000)
 
 
 ---
