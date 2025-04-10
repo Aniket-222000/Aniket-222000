@@ -7,7 +7,7 @@
 ![](https://komarev.com/ghpvc/?username=Aniket-222000&color=brightgreen)
 
 - 🔭 Focusing on FullStack.😎
-- 🌱 I’m currently learning DevOps and React 
+- 🌱 I’m currently learning DevOps and SpringBoot 
 - 💻 I love to exploring new tech stack and building cool stuffs.
 - 📰 Reading stock market news whenever possible.
 - ⚡ Fun fact: Equal is Not Always Equal in Javascript.🤣
