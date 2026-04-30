@@ -1,57 +1,57 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Aniket....;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
+# Aniket Chakkarwar
 
-![](https://komarev.com/ghpvc/?username=Aniket-222000&color=brightgreen)
-
-- 🔭 Focusing on FullStack.😎
-- 🌱 I’m currently learning DevOps and SpringBoot 
-- 💻 I love to exploring new tech stack and building cool stuffs.
-- 📰 Reading stock market news whenever possible.
-- ⚡ Fun fact: Equal is Not Always Equal in Javascript.🤣
+**Specialist Programmer @ Infosys** · Building scalable backends with Java, Spring Boot & cloud-native microservices · Open to remote roles & freelance.
 
 ---
 
-### Connect With Me:
+## What I do
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniket-chakkarwar/) 
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Aniket_Chakkarwar)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aniketchakkarwa)
-[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chakkarwaraniket2@gmail.com)
+I design and ship **production-grade backend systems** — microservices on AWS/Azure, REST and event-driven APIs, and full-stack features when needed. I've been doing this professionally at Infosys, and I'm now actively looking for **remote engineering roles and freelance contracts** where I can own meaningful backend work.
 
----
+My stack in practice:
 
-### Languages and Tools:
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-0CC1F3?style=flat-square&logo=docker&logoColor=white)
-![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-f7f7f7?style=flastic&logo=Next.js&logoColor=000000)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-F7F7F7?style=flat-square&logo=mongodb&logoColor=49A248)
-![Figma](https://img.shields.io/badge/Figma-f7f7f7?style=flastic&logo=Figma&logoColor=F24E1E)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-![NestJS](https://img.shields.io/badge/Nestjs-000000?style=flat-square&logo=nestjs&logoColor=D9224D)
-![VS Code](https://img.shields.io/badge/VisualStudio-2C2B30?style=flastic&logo=VisualStudioCode&logoColor=007ACC)
-![Postman](https://img.shields.io/badge/Postman-f7f7f7?style=flastic&logo=Postman&logoColor=FF6C37)
-
+| Layer | Tech |
+|---|---|
+| **Backend** | Java · Spring Boot · Spring AI · Microservices · REST APIs |
+| **Cloud** | AWS · Azure |
+| **Databases** | MongoDB · MySQL |
+| **Frontend** | React · Angular |
+| **Tooling** | Docker · Postman · Git |
 
 ---
 
-### My Github Status:
+## What I'm building right now
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Aniket-222000&show_icons=true&include_all_commits=true&theme=nightowl&hide_border=true" alt="Aniket Chakkarwar github status" />
+- 🤖 Exploring **Spring AI** — integrating LLMs into Java backends (RAG pipelines, AI-powered APIs)
+- ☁️ Going deeper on **AWS architecture** — Lambda, API Gateway, event-driven patterns
+- 📚 Daily TIL log → [`daily-learning`](https://github.com/Aniket-222000/daily-learning) — one concept, every day
+
+---
+
+## Projects
+
+> ⚠️ *Pinned repos incoming — check back soon. Currently cleaning up and documenting my best work.*
+
+If you want to see code samples or discuss a specific tech area before the pins go live, just reach out directly — I'm happy to share.
 
 ---
 
-### Top Usage Languages:
+## Open to
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniket-222000&layout=compact&theme=yeblu&hide_border=true&&langs_count=8" />
+✅ **Remote full-time / contract roles** — Backend, Full-Stack, Cloud  
+✅ **Freelance projects** — APIs, microservices architecture, Spring Boot apps  
+✅ **Collaboration** on interesting open source work
 
 ---
+
+## Let's talk
+
+If you're building something that needs solid backend engineering — or if you just want to geek out about distributed systems — I'm easy to reach:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aniket_Chakkarwar-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniket-chakkarwar/)
+[![Gmail](https://img.shields.io/badge/Email-chakkarwaraniket2@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:chakkarwaraniket2@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-@aniketchakkarwa-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/aniketchakkarwa)
+
+---
+
+<sub>💡 This README updates itself. I'm running a daily-commit system via GitHub Actions — every day I log something new I learned. Check the <a href="https://github.com/Aniket-222000/daily-learning">daily-learning repo</a> if you're curious.</sub>
